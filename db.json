@@ -1,0 +1,70 @@
+
+{
+    "products": [
+        {
+          "id": 1,
+          "name": "Pet Food",
+          "imageSrc": "product1.png",
+          "imageAlt": "Delicious dog food for strong muscles and overall health.",
+          "price": "$35",
+          "color": "Pedigree"
+        },
+        {
+          "id": 2,
+          "name": "Pet Food",
+          "imageSrc": "product2.png",
+          "imageAlt": "Premium dog food for optimal health and nourishment. Simply the best!",
+          "price": "$40",
+          "color": "Premium Dog"
+        },
+        {
+          "id": 3,
+          "name": "Pet Food",
+          "imageSrc": "product3.png",
+          "imageAlt": "Nourish your dog with premium, delicious, and health-boosting dog food.",
+          "price": "$55",
+          "color": "Premium puppy"
+        },
+        {
+          "id": 4,
+          "name": "Pet Food",
+          "imageSrc": "product4.png",
+          "imageAlt": "Wholesome dog food for happy, healthy, and vibrant four-legged friends.",
+          "price": "$35",
+          "color": "Happy dog"
+        },
+        {
+          "id": 5,
+          "name": "Pet Food",
+          "imageSrc": "product5.png",
+          "imageAlt": "Front of men's Basic Tee in black.",
+          "price": "$65",
+          "color": "All in one"
+        },
+        {
+          "id": 6,
+          "name": "Pet Food",
+          "imageSrc": "product6.png",
+          "imageAlt": "Nutrient-rich dog food for vibrant vitality and wagging tails.",
+          "price": "$75",
+          "color": "Hip & joint"
+        },
+        {
+          "id": 7,
+          "name": "Pet Food",
+          "imageSrc": "product7.png",
+          "imageAlt": "Elevate your dog's well-being with our nourishing and flavorful food. Irresistibly good!",
+          "price": "$35",
+          "color": "Quick fish"
+        },
+        {
+          "id": 8,
+          "name": "Toys",
+          "imageSrc": "product8.png",
+          "imageAlt": "Savor the joy of mealtime with our delectable, nutritious dog food. Unleash happiness!",
+          "price": "$35",
+          "color": "Toys"
+        }
+    
+    ]
+}
